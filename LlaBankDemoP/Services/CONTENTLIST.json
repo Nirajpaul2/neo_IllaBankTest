@@ -1,0 +1,92 @@
+{
+  "page": {
+    "title": "Romantic Comedy",
+    "total-content-items" : "54",
+    "page-num" : "1",
+    "page-size" : "20",
+    "content-items": {
+      "content": [
+        {
+          "name": "Dial 100",
+          "poster-image": "img1.jpeg"
+        },
+        {
+          "name": "Yamraj",
+          "poster-image": "img2.jpeg"
+        },
+        {
+          "name": "Shang Chi",
+          "poster-image": "img3.jpeg"
+        },
+        {
+          "name": "Family Pot",
+          "poster-image": "img4.jpeg"
+        },
+        {
+          "name": "Haathi Mere Saathi",
+          "poster-image": "img5.jpeg"
+        },
+        {
+          "name": "Commondo",
+          "poster-image": "img6.jpeg"
+        },
+        {
+          "name": "Sanak",
+          "poster-image": "img7.jpeg"
+        },
+        {
+          "name": "Major",
+          "poster-image": "img8.jpeg"
+        },
+        {
+          "name": "Family Pot",
+          "poster-image": "img9.jpeg"
+        },
+        {
+          "name": "The Birds",
+          "poster-image": "img10.jpeg"
+        },
+                {
+          "name": "The Birds",
+          "poster-image": "img11.jpeg"
+        },
+        {
+          "name": "Rear Window",
+          "poster-image": "img12.jpeg"
+        },
+        {
+          "name": "Coolie",
+          "poster-image": "img13.jpeg"
+        },
+        {
+          "name": "Maraan",
+          "poster-image": "img14.jpeg"
+        },
+        {
+          "name": "NoBody",
+          "poster-image": "img15.jpeg"
+        },
+        {
+          "name": "Paagal",
+          "poster-image": "img16.jpeg"
+        },
+        {
+          "name": "Rear Window",
+          "poster-image": "img17.jpeg"
+        },
+        {
+          "name": "Spider Man",
+          "poster-image": "img18.jpeg"
+        },
+        {
+          "name": "Bhoot Police",
+          "poster-image": "img19.jpeg"
+        },
+        {
+          "name": "Red",
+          "poster-image": "img20.jpeg"
+        }
+      ]
+    }
+  }
+}
